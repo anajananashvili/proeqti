@@ -1,0 +1,2 @@
+# proeqti
+web gverdis Seqmna
